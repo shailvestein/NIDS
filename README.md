@@ -5,11 +5,11 @@ This repository is about my first end-to-end network intrusion detection system 
 - #### [Network Intrusion Detection using Machine Learning on medium.com]
 
 ## Research Paper
-- #### [source research gate](https://www.researchgate.net/profile/Nour-Moustafa/publication/287330529_UNSW-NB15_a_comprehensive_data_set_for_network_intrusion_detection_systems_UNSW-NB15_network_data_set/links/567bf71708ae051f9ae029b6/UNSW-NB15-a-comprehensive-data-set-for-network-intrusion-detection-systems-UNSW-NB15-network-data-set.pdf?origin=publication_detail)
+- #### [source researchgate.net](https://www.researchgate.net/profile/Nour-Moustafa/publication/287330529_UNSW-NB15_a_comprehensive_data_set_for_network_intrusion_detection_systems_UNSW-NB15_network_data_set/links/567bf71708ae051f9ae029b6/UNSW-NB15-a-comprehensive-data-set-for-network-intrusion-detection-systems-UNSW-NB15-network-data-set.pdf?origin=publication_detail)
 
 ## Dataset
 - #### [source](https://www.unsw.adfa.edu.au/unsw-canberra-cyber/cybersecurity/ADFA-NB15-Datasets/)
-- #### The raw dataset having 49 features including class labels.
+- #### The dataset having 49 features including class labels.
 
 ## Repository structure
 - #### Data cleaning and exploratory data analysis notebook
