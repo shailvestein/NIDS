@@ -25,3 +25,7 @@ This repository is about my first end-to-end network intrusion detection system 
 - #### Then I’ve tried ML algorithms like Random Forest, SVM, logistic regression, Xgboost, etc. with f1-score and auc-score as classification metric because accuracy is not good metric when the data is highly imbalanced.
 - #### From the above heatmap we found that XGBoost and Random Forest had performed well from our base model Naive Bayes but the xgboost with default parameters have very similar auc and f1-score for both train and test data.
 - #### Hence, I can conclude that our XGBoost model with default parameters is like more generalized model from all the models with best auc and f1-score.
+
+
+## Contact
+- #### [LinkedIn](https://www.linkedin.com/in/shailesh-kumar-vishwakarma-23239a151/)
